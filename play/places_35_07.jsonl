@@ -478,3 +478,6 @@
 {"n":478,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mall court, west gutter. direct left open. 6 steps. The lamp stays for the win."}
 {"n":479,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the lamp at Mall court. Nobody past the west gutter. We win in 7 steps. Direct on the left lane, open."}
 {"n":480,"kind":"place","name":"Mall court west gutter","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Mall court west gutter. Ivo keeps the lamp for the win. 8 steps, direct on the left lane, open."}
+{"n":481,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, west gutter. direct left open. 2 steps. The lamp stays for the win."}
+{"n":482,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the lamp at Mall court. Nobody past the west gutter. We win in 3 steps. Direct on the left lane, open."}
+{"n":483,"kind":"place","name":"Mall court west gutter","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Mall court west gutter. Bess keeps the lamp for the win. 4 steps, direct on the left lane, open."}
