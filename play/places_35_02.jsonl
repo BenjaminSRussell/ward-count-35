@@ -318,3 +318,6 @@
 {"n":318,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at South stair, east dock. direct left open. 5 steps. The drum stays for the win."}
 {"n":319,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the drum at South stair. Nobody past the east dock. We win in 6 steps. Direct on the left lane, open."}
 {"n":320,"kind":"place","name":"South stair east dock","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"South stair east dock. Ivo keeps the drum for the win. 7 steps, direct on the left lane, open."}
+{"n":321,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, east dock. direct left open. 8 steps. The drum stays for the win."}
+{"n":322,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the drum at South stair. Nobody past the east dock. We win in 2 steps. Direct on the left lane, open."}
+{"n":323,"kind":"place","name":"South stair east dock","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"South stair east dock. Bess keeps the drum for the win. 3 steps, direct on the left lane, open."}
