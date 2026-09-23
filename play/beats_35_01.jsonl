@@ -902,3 +902,6 @@
 {"n":902,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the shutter at Kessler alley. Nobody past the east dock. We win in 2 steps. Direct on the left lane, open."}
 {"n":903,"kind":"place","name":"Kessler alley east dock","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Kessler alley east dock. Bess keeps the shutter for the win. 3 steps, direct on the left lane, open."}
 {"n":904,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, east dock. direct left open. 4 steps. The shutter stays for the win."}
+{"n":905,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the shutter at the Lot. Nobody past the east dock. We win in 5 steps. Direct on the left lane, open."}
+{"n":906,"kind":"place","name":"the Lot east dock","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"the Lot east dock. Matt keeps the shutter for the win. 6 steps, direct on the left lane, open."}
+{"n":907,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, east dock. direct left open. 7 steps. The shutter stays for the win."}
