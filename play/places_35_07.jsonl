@@ -394,3 +394,6 @@
 {"n":394,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, west gutter. direct left open. 6 steps. The crate stays for the win."}
 {"n":395,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the crate at Switchyard. Nobody past the west gutter. We win in 7 steps. Direct on the left lane, open."}
 {"n":396,"kind":"place","name":"Switchyard west gutter","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Switchyard west gutter. Ivo keeps the crate for the win. 8 steps, direct on the left lane, open."}
+{"n":397,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, west gutter. direct left open. 2 steps. The crate stays for the win."}
+{"n":398,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the crate at Switchyard. Nobody past the west gutter. We win in 3 steps. Direct on the left lane, open."}
+{"n":399,"kind":"place","name":"Switchyard west gutter","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Switchyard west gutter. Bess keeps the crate for the win. 4 steps, direct on the left lane, open."}
