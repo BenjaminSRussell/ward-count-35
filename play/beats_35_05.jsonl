@@ -343,3 +343,6 @@
 {"n":343,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the crate at South stair. Nobody past the south dock. We win in 6 steps. Direct on the left lane, open."}
 {"n":344,"kind":"place","name":"South stair south dock","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"South stair south dock. Ivo keeps the crate for the win. 7 steps, direct on the left lane, open."}
 {"n":345,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, south dock. direct left open. 8 steps. The crate stays for the win."}
+{"n":346,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the crate at South stair. Nobody past the south dock. We win in 2 steps. Direct on the left lane, open."}
+{"n":347,"kind":"place","name":"South stair south dock","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"South stair south dock. Bess keeps the crate for the win. 3 steps, direct on the left lane, open."}
+{"n":348,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, south dock. direct left open. 4 steps. The crate stays for the win."}
