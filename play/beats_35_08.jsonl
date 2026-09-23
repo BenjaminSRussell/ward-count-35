@@ -418,3 +418,6 @@
 {"n":418,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the drum at Drydock. Nobody past the west gutter. We win in 8 steps. Direct on the left lane, open."}
 {"n":419,"kind":"place","name":"Drydock west gutter","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Drydock west gutter. Bess keeps the drum for the win. 2 steps, direct on the left lane, open."}
 {"n":420,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, west gutter. direct left open. 3 steps. The drum stays for the win."}
+{"n":421,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the drum at High line. Nobody past the west gutter. We win in 4 steps. Direct on the left lane, open."}
+{"n":422,"kind":"place","name":"High line west gutter","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"High line west gutter. Matt keeps the drum for the win. 5 steps, direct on the left lane, open."}
+{"n":423,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, west gutter. direct left open. 6 steps. The drum stays for the win."}
