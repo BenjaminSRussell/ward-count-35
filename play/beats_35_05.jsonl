@@ -547,3 +547,6 @@
 {"n":547,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the lamp at Switchyard. Nobody past the south dock. We win in 7 steps. Direct on the left lane, open."}
 {"n":548,"kind":"place","name":"Switchyard south dock","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Switchyard south dock. Ivo keeps the lamp for the win. 8 steps, direct on the left lane, open."}
 {"n":549,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, south dock. direct left open. 2 steps. The lamp stays for the win."}
+{"n":550,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the lamp at Switchyard. Nobody past the south dock. We win in 3 steps. Direct on the left lane, open."}
+{"n":551,"kind":"place","name":"Switchyard south dock","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Switchyard south dock. Bess keeps the lamp for the win. 4 steps, direct on the left lane, open."}
+{"n":552,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, south dock. direct left open. 5 steps. The lamp stays for the win."}
