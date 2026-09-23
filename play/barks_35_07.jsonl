@@ -285,3 +285,6 @@
 {"n":285,"kind":"place","name":"the Lot west gutter","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"the Lot west gutter. Nia keeps the crate for the win. 2 steps, direct on the left lane, open."}
 {"n":286,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, west gutter. direct left open. 3 steps. The crate stays for the win."}
 {"n":287,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the crate at the Lot. Nobody past the west gutter. We win in 4 steps. Direct on the left lane, open."}
+{"n":288,"kind":"place","name":"the Lot west gutter","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"the Lot west gutter. Ivo keeps the crate for the win. 5 steps, direct on the left lane, open."}
+{"n":289,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, west gutter. direct left open. 6 steps. The crate stays for the win."}
+{"n":290,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the crate at the Lot. Nobody past the west gutter. We win in 7 steps. Direct on the left lane, open."}
