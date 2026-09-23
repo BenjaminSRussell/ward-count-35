@@ -707,3 +707,6 @@
 {"n":707,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the rebar at the pier. Nobody past the west gutter. We win in 4 steps. Direct on the left lane, open."}
 {"n":708,"kind":"place","name":"the pier west gutter","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"the pier west gutter. Ivo keeps the rebar for the win. 5 steps, direct on the left lane, open."}
 {"n":709,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, west gutter. direct left open. 6 steps. The rebar stays for the win."}
+{"n":710,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the rebar at the pier. Nobody past the west gutter. We win in 7 steps. Direct on the left lane, open."}
+{"n":711,"kind":"place","name":"the pier west gutter","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"the pier west gutter. Bess keeps the rebar for the win. 8 steps, direct on the left lane, open."}
+{"n":712,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, west gutter. direct left open. 2 steps. The rebar stays for the win."}
