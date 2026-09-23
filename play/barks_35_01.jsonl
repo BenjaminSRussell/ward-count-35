@@ -63,3 +63,6 @@
 {"n":63,"kind":"place","name":"Kessler alley east dock","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Kessler alley east dock. Bess keeps the barrel for the win. 3 steps, direct on the left lane, open."}
 {"n":64,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, east dock. direct left open. 4 steps. The barrel stays for the win."}
 {"n":65,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the barrel at the Lot. Nobody past the east dock. We win in 5 steps. Direct on the left lane, open."}
+{"n":66,"kind":"place","name":"the Lot east dock","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"the Lot east dock. Matt keeps the barrel for the win. 6 steps, direct on the left lane, open."}
+{"n":67,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, east dock. direct left open. 7 steps. The barrel stays for the win."}
+{"n":68,"kind":"bark","speaker":"Lis","moment":"win","line":"Lis: Hold the barrel at the Lot. Nobody past the east dock. We win in 8 steps. Direct on the left lane, open."}
