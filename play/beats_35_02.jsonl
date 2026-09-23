@@ -814,3 +814,6 @@
 {"n":814,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the plywood at Last Light. Nobody past the north dock. We win in 4 steps. Direct on the left lane, open."}
 {"n":815,"kind":"place","name":"Last Light north dock","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Last Light north dock. Bess keeps the plywood for the win. 5 steps, direct on the left lane, open."}
 {"n":816,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Last Light, north dock. direct left open. 6 steps. The plywood stays for the win."}
+{"n":817,"kind":"bark","speaker":"Sam","moment":"win","line":"Sam: Hold the plywood at South stair. Nobody past the north dock. We win in 7 steps. Direct on the left lane, open."}
+{"n":818,"kind":"place","name":"South stair north dock","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"South stair north dock. Matt keeps the plywood for the win. 8 steps, direct on the left lane, open."}
+{"n":819,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at South stair, north dock. direct left open. 2 steps. The plywood stays for the win."}
