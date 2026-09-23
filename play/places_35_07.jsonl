@@ -82,3 +82,6 @@
 {"n":82,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, west gutter. direct left open. 2 steps. The hydrant stays for the win."}
 {"n":83,"kind":"bark","speaker":"June","moment":"win","line":"June: Hold the hydrant at High line. Nobody past the west gutter. We win in 3 steps. Direct on the left lane, open."}
 {"n":84,"kind":"place","name":"High line west gutter","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"High line west gutter. Ivo keeps the hydrant for the win. 4 steps, direct on the left lane, open."}
+{"n":85,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, west gutter. direct left open. 5 steps. The hydrant stays for the win."}
+{"n":86,"kind":"bark","speaker":"Ada","moment":"win","line":"Ada: Hold the hydrant at High line. Nobody past the west gutter. We win in 6 steps. Direct on the left lane, open."}
+{"n":87,"kind":"place","name":"High line west gutter","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"High line west gutter. Bess keeps the hydrant for the win. 7 steps, direct on the left lane, open."}
